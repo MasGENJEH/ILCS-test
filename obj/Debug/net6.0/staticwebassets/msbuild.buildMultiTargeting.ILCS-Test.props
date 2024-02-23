@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ILCS-Test.props" />
+</Project>
